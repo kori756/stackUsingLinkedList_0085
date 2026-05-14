@@ -65,5 +65,9 @@ public:
         }
     }
 
-       
+       bool isEmpty()
+    {
+        return top == NULL;
+    }
+};
 
