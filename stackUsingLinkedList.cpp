@@ -34,4 +34,5 @@ public:
         return value;
     }
 
-     
+     void pop()
+    
